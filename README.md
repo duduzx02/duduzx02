@@ -4,10 +4,11 @@
   <a href="https://github.com/duduzx02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duduzx02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduzx02&layout=compact&langs_count=7&theme=dracula"/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duduzx02&&layout=compact&langs_count=7&theme=dracula" alt="duduzx02" /></p>
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duduzx02&&layout=compact&langs_count=7&theme=dracula" alt="duduzx02" /></p>
+
 
 
 

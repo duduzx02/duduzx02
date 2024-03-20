@@ -47,7 +47,7 @@
   <h3>Outras Tecnologias:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,windows,postman,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,windows,postman,vscode,maven" />
     </a>
   </p>
 
